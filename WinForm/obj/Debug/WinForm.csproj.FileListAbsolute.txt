@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\WinForm\WinForm\bin\Debug\WinForm.exe.config
+C:\Users\asus\source\repos\WinForm\WinForm\bin\Debug\WinForm.exe
+C:\Users\asus\source\repos\WinForm\WinForm\bin\Debug\WinForm.pdb
+C:\Users\asus\source\repos\WinForm\WinForm\obj\Debug\WinForm.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\WinForm\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+C:\Users\asus\source\repos\WinForm\WinForm\obj\Debug\WinForm.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\WinForm\WinForm\obj\Debug\WinForm.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\WinForm\WinForm\obj\Debug\WinForm.exe
+C:\Users\asus\source\repos\WinForm\WinForm\obj\Debug\WinForm.pdb
+C:\Users\asus\source\repos\WinForm\WinForm\obj\Debug\WinForm.frm_DangNhap.resources
+C:\Users\asus\source\repos\WinForm\WinForm\obj\Debug\WinForm.frm_QLSinhVien.resources
+C:\Users\asus\source\repos\WinForm\WinForm\obj\Debug\WinForm.frm_TimThu.resources
