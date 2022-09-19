@@ -10,3 +10,6 @@ C:\Users\asus\source\repos\WinForm\WinForm\obj\Debug\WinForm.pdb
 C:\Users\asus\source\repos\WinForm\WinForm\obj\Debug\WinForm.frm_DangNhap.resources
 C:\Users\asus\source\repos\WinForm\WinForm\obj\Debug\WinForm.frm_QLSinhVien.resources
 C:\Users\asus\source\repos\WinForm\WinForm\obj\Debug\WinForm.frm_TimThu.resources
+C:\Users\asus\source\repos\WinForm\WinForm\obj\Debug\WinForm.frm_GiaiPTBac2.resources
+C:\Users\asus\source\repos\WinForm\WinForm\obj\Debug\WinForm.frm_NhapMang.resources
+C:\Users\asus\source\repos\WinForm\WinForm\obj\Debug\WinForm.frm_ListBox.resources

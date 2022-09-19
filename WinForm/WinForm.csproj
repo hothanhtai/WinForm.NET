@@ -52,6 +52,12 @@
     <Compile Include="frm_GiaiPTBac2.Designer.cs">
       <DependentUpon>frm_GiaiPTBac2.cs</DependentUpon>
     </Compile>
+    <Compile Include="frm_ListBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ListBox.Designer.cs">
+      <DependentUpon>frm_ListBox.cs</DependentUpon>
+    </Compile>
     <Compile Include="frm_NhapMang.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -78,6 +84,15 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frm_GiaiPTBac2.resx">
+      <DependentUpon>frm_GiaiPTBac2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ListBox.resx">
+      <DependentUpon>frm_ListBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_NhapMang.resx">
+      <DependentUpon>frm_NhapMang.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frm_QLSinhVien.resx">
       <DependentUpon>frm_QLSinhVien.cs</DependentUpon>
     </EmbeddedResource>
